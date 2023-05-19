@@ -1,0 +1,10 @@
+name: TabPrefixe
+version: '${project.version}'
+main: de.megacraft.TabPrefixe
+api-version: 1.19
+authors: [ LevinGamer8 ]
+depend:
+  - LuckPerms
+
+commands:
+  brand:
